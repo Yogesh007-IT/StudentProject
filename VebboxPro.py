@@ -42,9 +42,9 @@ class Item(BaseModel):
 def get_db_connection():
     return mysql.connector.connect(
         host="sql12.freesqldatabase.com",
-        user="sql12779880",
-        password="XbhV4GixsY",
-        database="sql12779880",
+        user="sql12781788",
+        password="y6gxu2SfPp",
+        database="sql12781788",
         port="3306"
     )
 
